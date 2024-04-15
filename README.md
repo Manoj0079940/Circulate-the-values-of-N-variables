@@ -13,15 +13,16 @@ Get the value from the user for the number of rotation
 Using the slicing concept rotate the list
 
 ## Program:
-'''Program to Circulate the n variables using function concept
-Developed By: Nandakesore J
-Register Number: 212223240103
-'''
+```
+Program to Circulate the n variables using function concept
+Developed By: MANOJ M
+Register Number: 212223230122
+
 def circulate():
     list1=eval(input())
     n=int(input())
     print("After circulating the values are:",list1[n:]+list1[:n])
-
+```
 
 
 
